@@ -129,7 +129,7 @@ reverse proxy **HAProxy**, VPN OpenVPN, monitoring avec **Prometheus/Grafana** e
 Installation et configuration d'un serveur PBX **Elastix** en environnement virtuel,
 avec création des extensions SIP et tests de communication interne entre postes.
 
-🔗 [Voir le projet](https://github.com/sidiama/voip-elastix)
+🔗 [Voir le projet](https://github.com/SALIHSIDIBE/Voip-elastix.git)
 
 ---
 
