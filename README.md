@@ -213,8 +213,6 @@ configuration des équipements Cisco, segmentation VLAN et mise en place des pro
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sidiama&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidiama&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🤝 Connectons-nous & Collaborons !
