@@ -120,7 +120,7 @@ Déploiement d'une infrastructure sécurisée sur serveur dédié **Hetzner / Pr
 segmentation réseau par zones avec pfSense, mise en place d'un WAF **Nginx/ModSecurity**,
 reverse proxy **HAProxy**, VPN OpenVPN, monitoring avec **Prometheus/Grafana** et SIEM **Wazuh**.
 
-🔗 [Voir le projet](https://github.com/sidiama/ecotrack)
+🔗 [Voir le projet](https://github.com/SALIHSIDIBE/ECOTRACK.git)
 
 ---
 
@@ -138,7 +138,7 @@ avec création des extensions SIP et tests de communication interne entre postes
 Conception et simulation d'une infrastructure réseau d'entreprise : adressage IP,
 configuration des équipements Cisco, segmentation VLAN et mise en place des protocoles DHCP et DNS.
 
-🔗 [Voir le projet](https://github.com/sidiama/reseau-entreprise-cpt)
+🔗 [Voir le projet]()
 
 ---
 
