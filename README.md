@@ -175,9 +175,11 @@ configuration des équipements Cisco, segmentation VLAN et mise en place des pro
 
 ## 📜 Certifications
 
-🛡️ **Fortinet NSE 1** – Network Security Associate ✅ *Validée*  
-🛡️ **Fortinet NSE 2** – Network Security Associate 🔄 *En cours*  
-🎓 **Analyste Junior Cybersécurité** 🔄 *En cours*
+| 🏆 Certification | 📌 Statut |
+|---|---|
+| 🛡️ Fortinet NSE 1 – Network Security Associate | ✅ Validée |
+| 🛡️ Fortinet NSE 2 – Network Security Associate | 🔄 En cours |
+| 🎓 Analyste Junior Cybersécurité | 🔄 En cours |
 
 ---
 
