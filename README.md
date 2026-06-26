@@ -138,7 +138,7 @@ avec création des extensions SIP et tests de communication interne entre postes
 Conception et simulation d'une infrastructure réseau d'entreprise : adressage IP,
 configuration des équipements Cisco, segmentation VLAN et mise en place des protocoles DHCP et DNS.
 
-🔗 [Voir le projet]()
+🔗 [Voir le projet](https://github.com/SALIHSIDIBE/Reseau-entreprise.git)
 
 ---
 
