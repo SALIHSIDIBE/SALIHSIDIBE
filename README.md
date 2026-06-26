@@ -2,7 +2,7 @@
 
 🗓️ Rythme : 3 semaines en entreprise / 1 semaine de cours
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+%26+Network+Engineer;Administration+Syst%C3%A8mes+%26+R%C3%A9seaux;Pentest+%7C+SOC+%7C+Blue+Team+%7C+Infrastructure;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+%26+Network+Engineer;Administration+Syst%C3%A8mes+%26+R%C3%A9seaux;Pentest+%7C+SOC+%7C+Blue+Team;Cloud+Security+%7C+Infrastructure)](https://git.io/typing-svg)
 
 ---
 
