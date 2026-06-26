@@ -11,7 +11,7 @@
 🛡️ Cybersécurité | Administration Systèmes & Réseaux | Cloud & Virtualisation  
 🔐 Passionné par la sécurisation des infrastructures et l'administration réseau
 
-🚀 Alternance recherchée en **Administration Systèmes & Réseaux** à partir de septembre 2026
+🚀 Alternance recherchée en **Administration Systèmes & Réseaux ou Cybersécurité & Réseaux** à partir de septembre 2026
 
 [![Admin Sys](https://img.shields.io/badge/Admin_Syst%C3%A8mes_%26_R%C3%A9seaux-Recherche_Alternance-blue)](https://linkedin.com/in/salih-sidibe)
 [![Cyber](https://img.shields.io/badge/Cybers%C3%A9curit%C3%A9_%26_R%C3%A9seaux-Recherche_Alternance-blue)](https://linkedin.com/in/salih-sidibe)
@@ -38,7 +38,7 @@
 
 🔍 À travers mes projets techniques, je travaille sur des environnements impliquant **Proxmox, pfSense, WAF Nginx/ModSecurity, HAProxy, OpenVPN, Wazuh, Prometheus/Grafana, Active Directory et Azure**.
 
-🔐 **Recherche une alternance en Administration Systèmes & Réseaux ou en Cybersécurité & Réseaux à partir de septembre 2026.**
+🔐 **Recherche une alternance en Administration Systèmes & Réseaux ou Cybersécurité & Réseaux à partir de septembre 2026.**
 
 **Domaines de spécialisation :**
 
@@ -202,7 +202,7 @@ configuration des équipements Cisco, segmentation VLAN et mise en place des pro
 
 ## 🎯 Objectifs
 
-🔍 Décrocher une alternance en **Administration Systèmes & Réseaux** pour développer mes compétences en infrastructure et sécurité opérationnelle.
+🔍 Décrocher une alternance en **Administration Systèmes & Réseaux ou Cybersécurité & Réseaux** pour développer mes compétences en infrastructure et sécurité opérationnelle.
 
 🎓 Réussir mon **Mastère Cybersécurité Systèmes & Réseaux** à INGETIS Paris.
 
