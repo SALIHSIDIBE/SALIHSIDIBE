@@ -176,6 +176,7 @@ configuration des équipements Cisco, segmentation VLAN et mise en place des pro
 ## 📜 Certification
 
 🛡️ **Fortinet NSE 1** – Network Security Associate
+
 ---
 
 ## 🔎 Compétences Clés
