@@ -14,6 +14,7 @@
 🚀 Alternance recherchée en **Administration Systèmes & Réseaux** à partir de septembre 2026
 
 [![Admin Sys](https://img.shields.io/badge/Admin_Syst%C3%A8mes_%26_R%C3%A9seaux-Recherche_Alternance-blue)](https://linkedin.com/in/salih-sidibe)
+[![Cyber](https://img.shields.io/badge/Cybers%C3%A9curit%C3%A9_%26_R%C3%A9seaux-Recherche_Alternance-blue)](https://linkedin.com/in/salih-sidibe)
 [![Pentest](https://img.shields.io/badge/Pentesting-Comp%C3%A9tence-red)](https://linkedin.com/in/salih-sidibe)
 [![Cloud](https://img.shields.io/badge/Cloud_Azure_%26_AWS-Comp%C3%A9tence-lightgrey)](https://linkedin.com/in/salih-sidibe)
 [![Infrastructure](https://img.shields.io/badge/Infrastructure_%26_Virtualisation-Comp%C3%A9tence-green)](https://linkedin.com/in/salih-sidibe)
@@ -98,7 +99,7 @@
 
 - **Azure** : Hub & Spoke | VNet Peering | Bastion | Storage Account | Key Vault
 - **AWS** : Lambda | API Gateway | DynamoDB
-- VirtualBox | VMware | Hyper-V | **Proxmox VE** | PNETLab | Microsoft Azure
+- VirtualBox | VMware | Hyper-V | Proxmox VE | PNETLab | Microsoft Azure
 
 ---
 
