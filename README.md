@@ -180,7 +180,7 @@ configuration des équipements Cisco, segmentation VLAN et mise en place des pro
 |---|---|
 | 🛡️ Fortinet NSE 1 – Fundamentals in Cybersecurity | ✅ Validée |
 | 🛡️ Fortinet NSE 2 – Technical Introduction to Cybersecurity | 🔄 En cours |
-| 🎓 Analyste Junior Cybersécurité chez Cisco | 🔄 En cours |
+| 🎓 Analyste Junior Cybersécurité chez Cisco | ✅ Validée |
 
 ---
 
