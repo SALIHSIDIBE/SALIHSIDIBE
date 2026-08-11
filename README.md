@@ -222,4 +222,4 @@ configuration des équipements Cisco, segmentation VLAN et mise en place des pro
 
 > *"Sécuriser les infrastructures et contribuer à des systèmes robustes grâce à une approche technique rigoureuse et une curiosité permanente."*
 
-[![STAGE ATKTERNE OU Alternance](https://img.shields.io/badge/Recherche-Alternance_Admin_Syst%C3%A8mes_%26_R%C3%A9seaux_%7C_Cybers%C3%A9curit%C3%A9_%26_R%C3%A9seaux-success?style=for-the-badge)](https://linkedin.com/in/salih-sidibe)
+[![Stage alterné ou Alternance](https://img.shields.io/badge/Recherche-Alternance_Admin_Syst%C3%A8mes_%26_R%C3%A9seaux_%7C_Cybers%C3%A9curit%C3%A9_%26_R%C3%A9seaux-success?style=for-the-badge)](https://linkedin.com/in/salih-sidibe)
