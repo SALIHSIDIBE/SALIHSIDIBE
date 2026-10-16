@@ -61,7 +61,7 @@
 - Windows & Linux (Client & Serveur) | Active Directory (AD DS, RODC)
 - Installation & configuration systèmes | Maintenance de parc informatique
 - Gestion des accès réseau | Administration PBX | Extensions SIP
-- Support technique N1/N2 | Diagnostic et résolution d'incidents
+- Support technique N1 | Diagnostic et résolution d'incidents
 
 ---
 
@@ -196,7 +196,7 @@ configuration des équipements Cisco, segmentation VLAN et mise en place des pro
 ## 🌍 Langues
 
 🇫🇷 **Français** : Courant  
-🇬🇧 **Anglais** : Niveau B1 (lu, écrit)
+🇬🇧 **Anglais** : Niveau B1
 
 ---
 
