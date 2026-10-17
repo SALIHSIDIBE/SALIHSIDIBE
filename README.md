@@ -113,7 +113,7 @@ PuTTY | VS Code | Elastix | pfSense | Wireshark | Nmap | Cisco Packet Tracer
 
 ---
 
-## 📁 Projets Académiques
+## 📁 Projets
 
 ### 🔒 Cartographie réseau Azure
 
