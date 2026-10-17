@@ -117,6 +117,15 @@ PuTTY | VS Code | Elastix | pfSense | Wireshark | Nmap | Cisco Packet Tracer
 
 ### 🔒 Plateforme IoT sécurisée ECOTRACK
 
+Outil Python (SDK Azure) qui inventorie réseaux virtuels, sous-réseaux, peerings et NSG, détecte les règles ouvertes
+à Internet sur des ports sensibles (ex. SSH) et génère un schéma Graphviz ; tests unitaires inclus.
+
+🔗 [Voir le projet](https://github.com/SALIHSIDIBE/Azure-network-mapper.git)
+
+---
+
+### 🔒 Plateforme IoT sécurisée ECOTRACK
+
 Déploiement d'une infrastructure sécurisée sur serveur dédié **Hetzner / Proxmox VE** :
 segmentation réseau par zones avec pfSense, mise en place d'un WAF **Nginx/ModSecurity**,
 reverse proxy **HAProxy**, VPN OpenVPN, monitoring avec **Prometheus/Grafana** et SIEM **Wazuh**.
