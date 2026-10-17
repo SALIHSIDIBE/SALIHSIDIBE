@@ -115,7 +115,7 @@ PuTTY | VS Code | Elastix | pfSense | Wireshark | Nmap | Cisco Packet Tracer
 
 ## 📁 Projets Académiques
 
-### 🔒 Plateforme IoT sécurisée ECOTRACK
+### 🔒 Cartographie réseau Azure
 
 Outil Python (SDK Azure) qui inventorie réseaux virtuels, sous-réseaux, peerings et NSG, détecte les règles ouvertes
 à Internet sur des ports sensibles (ex. SSH) et génère un schéma Graphviz ; tests unitaires inclus.
