@@ -99,7 +99,7 @@
 
 - **Azure** : Hub & Spoke | VNet Peering | Bastion | Storage Account | Key Vault
 - **AWS** : Lambda | API Gateway | DynamoDB
-- VirtualBox | VMware | Hyper-V | Proxmox VE | PNETLab | Microsoft Azure
+- VirtualBox | VMware | Hyper-V | Proxmox VE | PNETLab
 
 ---
 
@@ -187,7 +187,7 @@ configuration des équipements Cisco, segmentation VLAN et mise en place des pro
 
 | 🏫 Institution | 📚 Diplôme | 📅 Période | 📍 Lieu |
 |---|---|---|---|
-| **INGETIS Paris** | Mastère 1 Cybersécurité Systèmes & Réseaux | 2025 – 2026 | Paris |
+| **INGETIS Paris** | Mastère Cybersécurité Systèmes & Réseaux | 2025 – 2027 | Paris |
 | **UUA Ouagadougou** | Licence Réseaux & Télécommunications | 2021 – 2024 | Ouaga |
 
 ---
@@ -197,7 +197,7 @@ configuration des équipements Cisco, segmentation VLAN et mise en place des pro
 | 🏆 Certification | 📌 Statut |
 |---|---|
 | 🛡️ Fortinet NSE 1 – Fundamentals in Cybersecurity | ✅ Validée |
-| 🛡️ Fortinet NSE 2 – Technical Introduction to Cybersecurity | 🔄 En cours |
+| 🛡️ Fortinet NSE 2 – Technical Introduction to Cybersecurity | ✅ Validée |
 | 🎓 Analyste Junior Cybersécurité chez Cisco | ✅ Validée |
 
 ---
