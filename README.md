@@ -118,7 +118,7 @@ PuTTY | VS Code | Elastix | pfSense | Wireshark | Nmap | Cisco Packet Tracer
 ### 🔒 Homelab de pentest personnel
 
 Lab VMware segmenté en 5 zones par pfSense : **AD volontairement vulnérable**, **cibles (Metasploitable2, DVWA)**,
-attaques depuis Kali détectées avec **Wazuh** et supervisées avec **Prometheus / Grafana**.
+attaques depuis Kali détectées avec **Wazuh** et supervisées avec **Prometheus / Grafana**. **Migration en cours sur proxmox**
 
 🔗 [Voir le projet](https://github.com/SALIHSIDIBE//Homelab-de-pentest.git)
 
